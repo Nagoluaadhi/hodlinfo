@@ -1,5 +1,5 @@
 {
-  "name": "hodlinfo-quadbtech",
+  "name": "hodlinfo",
   "version": "1.0.0",
   "description": "Intern test project",
   "main": "server.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TENSHKUMAR-KKT-2004/HODLINFO-QuadBTech.git"
+    "url": "git+https://github.com/Nagoluaadhi/hodlinfo.git"
   },
-  "author": "TENSHKUMAR K",
+  "author": "Audi Kesava Reddy N",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/TENSHKUMAR-KKT-2004/HODLINFO-QuadBTech/issues"
+    "url": "https://github.com/Nagoluaadhi/hodlinfo/issues"
   },
-  "homepage": "https://github.com/TENSHKUMAR-KKT-2004/HODLINFO-QuadBTech#readme",
+  "homepage": "https://github.com/Nagoluaadhi/hodlinfo#readme",
   "dependencies": {
     "axios": "^1.4.0",
     "ejs": "^3.1.9",
